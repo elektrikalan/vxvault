@@ -36,7 +36,7 @@ vxvault/
 
 ## 📖 Kullanım
 
-### 1. Hızlı Veri Kazıyıcı (CLI)
+### 1. Hızlı Veri Toplayıcı (CLI)
 Sadece verileri hızlıca çekip CSV/DB olarak kaydetmek istiyorsanız:
 ```bash
 python vxvault_scraper.py
