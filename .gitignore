@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Databases & Data Exports
+*.db
+*.sqlite3
+*.csv
+*.xlsx
+
+# Project Specific
+vxvault_collector/logs/
+vxvault_collector/exports/
+vxvault_collector/data/
+vxvault_collector/zararlilar/
+data/
+zararlilar/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
